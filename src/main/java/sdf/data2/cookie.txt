@@ -1,0 +1,5 @@
+This is a cookie file.
+It contains very random texts to satisfy the course task.
+Please do not spend too much time reading it.
+That is, of course, if you do not have enough time.
+If you have, please feel free to read everything.
